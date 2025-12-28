@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building college whole website <br>🤝 I’m looking for help with front-end <br>🌱 I’m currently learning js<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on building college website <br>🤝 I’m looking for help with API <br>🌱 I’m currently learning js<br>💬 Ask me about front-end and back-end include c,cpp and python<br>⚡ Fun fact, I am building my own team but we lack a UI/UX designer. 
 
 
 ## 🌐 Socials:
