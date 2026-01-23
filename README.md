@@ -1,5 +1,9 @@
 # 💫 About Me:
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=👾%20PROFILE%20VIEWS&color=ff00ff&style=for-the-badge)
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujalvende&label=👑+ELITE+VISITORS&color=gold&style=for-the-badge" />
+</p>
+<br>
 👋 Hi, I'm Sujal Vende, a degree college student who is passionate about learning technology and building useful projects.<br><br>I enjoy working on web development, improving my programming skills, and collaborating with others to gain real-world experience.<br><br><br><br><br><br>🔭 Currently working on building a College Website<br><br>🤝 Looking for help and collaboration on API-based projects<br><br>🌱 Currently learning JavaScript, GSAP, and Backend Development<br><br>💬 Ask me about Front-end, Back-end, C, C++, and Python<br><br>⚡ Fun fact: I am building my own small team, and we are looking for a UI/UX designer
 
 
