@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Sujal Vende, a degree college student who is passionate about learning technology and building useful projects.<br><br>I enjoy working on web development, improving my programming skills, and collaborating with others to gain real-world experience.<br><br><br>🔭 Currently working on building a College Website<br><br>🤝 Looking for help and collaboration on API-based projects<br><br>🌱 Currently learning JavaScript, GSAP, and Backend Development<br><br>💬 Ask me about Front-end, Back-end, C, C++, and Python<br><br>⚡ Fun fact: I am building my own small team, and we are looking for a UI/UX designer
+👋 Hi, I'm Sujal Vende, a degree college student who is passionate about learning technology and building useful projects.<br><br>I enjoy working on web development, improving my programming skills, and collaborating with others to gain real-world experience.<br><br><br>🔭 Currently learning React and Taolwind css<br><br>🤝 Looking for help and collaboration on API-based projects<br><br>🌱 Currently learning JavaScript, GSAP, and Backend Development<br><br>💬 Ask me about Front-end, Back-end, C, C++, and Python<br><br>⚡ Fun fact: I am building my own small team, and we are looking for a UI/UX designer
 
 <br>
 <p align="center">
